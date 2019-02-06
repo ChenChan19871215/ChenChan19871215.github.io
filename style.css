@@ -1,0 +1,11 @@
+body {background-color:rgb(256, 256,256)}
+
+img { display: block; margin-left: auto;margin-right: auto;}
+
+
+.outer {
+   height: 500;width: 500;
+   background-color:rgb(128, 128, 128);
+   position:relative;
+   padding: 100px;
+}
